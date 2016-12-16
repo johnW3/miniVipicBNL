@@ -1,0 +1,15 @@
+record(waveform, "$(user):Waveform${WF}") {
+  field(DESC, "WaveForm on miniVPIC ${IN}")
+  field(DTYP, "Zed")
+  field(NELM, "${numberElements}")
+  field(FTVL, "ULONG")
+  field(INP,  "${IN}")
+}
+record(waveform, "$(user):ThresholdX${WF}") {
+  field(DESC, "x-axis for threshold scan miniVPIC")
+  field(DTYP, "Zed")
+  field(NELM, "${numberElements}")
+  field(FTVL, "FLOAT")
+  field(INP, "${IN2}")
+}
+

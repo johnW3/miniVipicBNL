@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/O.linux-arm
+END
+vipicHello.d
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/O.linux-arm/vipicHello.d
+END
+vipicMain.d
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/O.linux-arm/vipicMain.d
+END
+devXxxSoft.d
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/O.linux-arm/devXxxSoft.d
+END
+initTrace.d
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/O.linux-arm/initTrace.d
+END
+vipic.dbd.d
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/O.linux-arm/vipic.dbd.d
+END
+xxxRecord.d
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/O.linux-arm/xxxRecord.d
+END
+vipic
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/O.linux-arm/vipic
+END
+vipic_registerRecordDeviceDriver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/O.linux-arm/vipic_registerRecordDeviceDriver.cpp
+END
+vipic_registerRecordDeviceDriver.d
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/O.linux-arm/vipic_registerRecordDeviceDriver.d
+END
+zed.dbd.d
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/O.linux-arm/zed.dbd.d
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/O.linux-arm/Makefile
+END
+dbSubExample.d
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/O.linux-arm/dbSubExample.d
+END
+xxxRecord.h.d
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/O.linux-arm/xxxRecord.h.d
+END

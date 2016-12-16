@@ -1,0 +1,18 @@
+record(longout, "$(user):PixelToScan${WF}") {
+  field(DESC, "Pixel to scan")
+  field(DTYP, "Zed")
+  field(OUT,  "#C1 S10 @16,1")
+  field(FLNK, "$(user):Waveform${WF}.VAL")
+}
+record(longout, "$(user):dacTrim${WF}") {
+  field(DESC, "DAC Trim Bits to Set")
+  field(DTYP, "Zed")
+  field(OUT,  "#C1 S11 @16,1")
+  field(FLNK, "$(user):Waveform${WF}.VAL")
+}
+record(longout, "$(user):configPixelCnt${WF}") {
+  field(DESC, "Configure Pixel to count")
+  field(DTYP, "Zed")
+  field(OUT,  "#C1 S12 @16,1")
+  field(FLNK, "$(user):Waveform${WF}.VAL")
+}

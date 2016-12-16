@@ -1,0 +1,35 @@
+#!/bin/tcsh
+# IOC startup script (shell application)
+#
+
+## Define root locations
+###setenv XORAPPS      /net/s14dserv/xorApps/epics
+#setenv XORAPPS	    /net/s100dserv/xorApps/epics
+#setenv DETSHARE     /DETshare/epics/synApps_5_3-EL5/support
+#setenv EPICS_APP    $XORAPPS/synApps_5_3/ioc/biolts1
+setenv EPICS_APP    /home/oxygen/WEIZEOR/epics/myvipic/ioc/vipicApp
+#
+setenv STARTUP_DIR  /home/oxygen/WEIZEOR/epics/myvipic/ioc/vipicApp/op/adl
+setenv STARTUP_ADL  testWaveForm.adl
+
+set output = `perl $EPICS_APP/release.pl $EPICS_APP`
+$output
+
+## Define alias to build the MEDM display path
+alias append_MEDM_path 'setenv EPICS_DISPLAY_PATH ${EPICS_DISPLAY_PATH}:\!*'
+
+## Define application screen location (always first in the list)
+setenv EPICS_DISPLAY_PATH   $STARTUP_DIR
+
+## synApps screens
+#append_MEDM_path    $DETSHARE/ebrick/2-2-2/ebrickApp/op/adl
+#append_MEDM_path    $DETSHARE/asyn/4-9/medm
+#append_MEDM_path    $DETSHARE/std/2-6/stdApp/op/adl
+#append_MEDM_path    $DETSHARE/calc/2-6-7/calcApp/op/adl
+#append_MEDM_path    $DETSHARE/sscan/2-6-2/sscanApp/op/adl
+#append_MEDM_path    $DETSHARE/ip/2-8/ipApp/op/adl
+
+## Launch MEDM screen
+echo "setting MEDM session working directory to:"
+cd $STARTUP_DIR
+medm -x -noMsg -macro "P=vipic:,R=uC:,sector=$2" $STARTUP_ADL &

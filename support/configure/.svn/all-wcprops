@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/detpool/!svn/ver/2986/myvipic/trunk/support/configure
+END
+RELEASE
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/detpool/!svn/ver/2986/myvipic/trunk/support/configure/RELEASE
+END
+RULES.ioc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/detpool/!svn/ver/2986/myvipic/trunk/support/configure/RULES.ioc
+END
+CONFIG
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/detpool/!svn/ver/2986/myvipic/trunk/support/configure/CONFIG
+END
+CONFIG_SITE
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/detpool/!svn/ver/2986/myvipic/trunk/support/configure/CONFIG_SITE
+END
+RULES
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/detpool/!svn/ver/2986/myvipic/trunk/support/configure/RULES
+END
+RULES_DIRS
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/detpool/!svn/ver/2986/myvipic/trunk/support/configure/RULES_DIRS
+END
+RULES_TOP
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/detpool/!svn/ver/2986/myvipic/trunk/support/configure/RULES_TOP
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/detpool/!svn/ver/2986/myvipic/trunk/support/configure/Makefile
+END

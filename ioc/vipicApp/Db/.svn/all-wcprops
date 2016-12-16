@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/Db
+END
+dbSubExample.db
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/Db/dbSubExample.db
+END
+dbExample1.db
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/Db/dbExample1.db
+END
+dbExample2.db
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/Db/dbExample2.db
+END
+user.substitutions
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/Db/user.substitutions
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/detpool/!svn/ver/3077/myvipic/trunk/ioc/vipicApp/Db/Makefile
+END

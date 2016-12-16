@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src
+END
+vipicHello.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/vipicHello.c
+END
+vipicHello.dbd
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/vipicHello.dbd
+END
+sncExample.dbd
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/sncExample.dbd
+END
+dbSubExample.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/dbSubExample.c
+END
+sncProgram.st
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/sncProgram.st
+END
+vipicMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/vipicMain.cpp
+END
+dbSubExample.dbd
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/dbSubExample.dbd
+END
+devXxxSoft.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/devXxxSoft.c
+END
+initTrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/initTrace.c
+END
+xxxRecord.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/xxxRecord.c
+END
+sncExample.stt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/sncExample.stt
+END
+initTrace.dbd
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/initTrace.dbd
+END
+xxxSupport.dbd
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/xxxSupport.dbd
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/detpool/!svn/ver/3031/myvipic/trunk/ioc/vipicApp/src/Makefile
+END
+xxxRecord.dbd
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/detpool/!svn/ver/2986/myvipic/trunk/ioc/vipicApp/src/xxxRecord.dbd
+END

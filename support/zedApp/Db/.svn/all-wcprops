@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/detpool/!svn/ver/2986/myvipic/trunk/support/zedApp/Db
+END
+zedLO.db
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/detpool/!svn/ver/3091/myvipic/trunk/support/zedApp/Db/zedLO.db
+END
+zedWF.db
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/detpool/!svn/ver/3091/myvipic/trunk/support/zedApp/Db/zedWF.db
+END
+zedBO.db
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/detpool/!svn/ver/3079/myvipic/trunk/support/zedApp/Db/zedBO.db
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/detpool/!svn/ver/3079/myvipic/trunk/support/zedApp/Db/Makefile
+END

@@ -1,0 +1,4 @@
+device(bo,VME_IO,devBoA32Vipic,"Vipic")
+device(waveform,VME_IO,devWaveformA32Vipic,"Vipic")
+device(lo,VME_IO,devWaveformA32Vipic,"Vipic")
+

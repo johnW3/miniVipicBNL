@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/detpool/!svn/ver/2986/myvipic/trunk/support/zedApp/src
+END
+devA32Zed.dbd
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/detpool/!svn/ver/3049/myvipic/trunk/support/zedApp/src/devA32Zed.dbd
+END
+devA32Zed.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/detpool/!svn/ver/3095/myvipic/trunk/support/zedApp/src/devA32Zed.c
+END
+zed.dbd
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/detpool/!svn/ver/2986/myvipic/trunk/support/zedApp/src/zed.dbd
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/detpool/!svn/ver/2992/myvipic/trunk/support/zedApp/src/Makefile
+END
+devA32Vme.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/detpool/!svn/ver/2986/myvipic/trunk/support/zedApp/src/devA32Vme.c
+END

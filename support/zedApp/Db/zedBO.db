@@ -1,0 +1,7 @@
+record(bo, "$(user):LED${LED}") {
+  field(DESC, "LED on miniVPIC ${OUT}")
+  field(DTYP, "Zed")
+  field(OUT,  "${OUT}")
+  field(ZNAM, "Off")
+  field(ONAM, "On")
+}

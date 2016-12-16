@@ -1,0 +1,5 @@
+epicsEnvSet("ARCH","linux-arm")
+epicsEnvSet("IOC","iocvipic")
+epicsEnvSet("TOP","/root/epics/myvipic/ioc")
+epicsEnvSet("EPICS_BASE","/root/epics/base-3.15.3")
+epicsEnvSet("ZED","/root/epics/myvipic/support")
